@@ -1,0 +1,10 @@
+com\automation\base\WebDriverBaseTestpage.class
+com\automation\base\LoadableComponents.class
+com\automation\resources\HomePage_loc.class
+com\automation\testScript\loginToApplication.class
+com\automation\util\LoggerUtil.class
+com\automation\util\DemoTestNGUtil.class
+com\automation\testPages\LoginPage.class
+com\automation\testPages\Template.class
+com\automation\resources\Template_loc.class
+com\automation\testPages\HomePage.class

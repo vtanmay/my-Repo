@@ -1,0 +1,9 @@
+<suite name = "SmokeTest">
+	<test name = "verifyLoginTest">
+		<classes>
+			<class name = "com.automation.testScript.loginToApplication">
+				<!-- <include>loginToApplication</include> -->
+			</class>
+		</classes>
+	</test>
+</suite>
