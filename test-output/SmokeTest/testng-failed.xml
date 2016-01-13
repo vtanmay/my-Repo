@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [SmokeTest]">
-  <test name="verifyLoginTest">
+  <listeners>
+    <listener class-name="com.automation.listeners.MyListener"/>
+  </listeners>
+  <test name="verifyLogin(failed)">
     <classes>
-      <class name="com.automation.testScript.loginToApplication"/>
+      <class name="com.automation.testScript.loginToApplication">
+        <methods>
+          <include name="VerifyLogin3"/>
+        </methods>
+      </class> <!-- com.automation.testScript.loginToApplication -->
     </classes>
-  </test> <!-- verifyLoginTest -->
+  </test> <!-- verifyLogin(failed) -->
 </suite> <!-- Failed suite [SmokeTest] -->

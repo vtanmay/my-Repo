@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite verbose="0" name="Failed suite [SmokeTest]">
-  <test name="verifyLoginTest(failed)">
+  <test name="verifyLogin(failed)">
     <classes>
       <class name="com.automation.testScript.loginToApplication">
         <methods>
-          <include name="f"/>
+          <include name="VerifyLogin3"/>
         </methods>
       </class> <!-- com.automation.testScript.loginToApplication -->
     </classes>
-  </test> <!-- verifyLoginTest(failed) -->
+  </test> <!-- verifyLogin(failed) -->
 </suite> <!-- Failed suite [SmokeTest] -->

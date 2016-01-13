@@ -9,6 +9,7 @@ import org.openqa.selenium.support.FindBy;
 
 import com.automation.base.WebDriverBaseTestpage;
 import com.automation.resources.HomePage_loc;
+import com.automation.util.LoggerUtil;
 
 public class HomePage extends WebDriverBaseTestpage implements HomePage_loc{
 	
@@ -41,6 +42,11 @@ public class HomePage extends WebDriverBaseTestpage implements HomePage_loc{
 		
 		getLinkStudentLogin().click();
 		logger.log(Level.INFO, "clicked on student login link");
+	}
+
+	public void verifyLogo(String string, String string2) {
+		
+		
 	}
 	
 }

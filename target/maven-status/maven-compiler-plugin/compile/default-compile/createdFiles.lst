@@ -1,4 +1,5 @@
 com\automation\base\WebDriverBaseTestpage.class
+com\automation\util\ReporterUtil.class
 com\automation\base\LoadableComponents.class
 com\automation\resources\HomePage_loc.class
 com\automation\testScript\loginToApplication.class

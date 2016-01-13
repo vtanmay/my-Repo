@@ -4,6 +4,7 @@ D:\Selenium_Projects\TestWorkSpace\DemoTestNG\src\com\automation\testPages\Login
 D:\Selenium_Projects\TestWorkSpace\DemoTestNG\src\com\automation\base\LoadableComponents.java
 D:\Selenium_Projects\TestWorkSpace\DemoTestNG\src\com\automation\base\WebDriverBaseTestpage.java
 D:\Selenium_Projects\TestWorkSpace\DemoTestNG\src\com\automation\util\LoggerUtil.java
+D:\Selenium_Projects\TestWorkSpace\DemoTestNG\src\com\automation\util\ReporterUtil.java
 D:\Selenium_Projects\TestWorkSpace\DemoTestNG\src\com\automation\testPages\Template.java
 D:\Selenium_Projects\TestWorkSpace\DemoTestNG\src\com\automation\resources\Template_loc.java
 D:\Selenium_Projects\TestWorkSpace\DemoTestNG\src\com\automation\resources\HomePage_loc.java
